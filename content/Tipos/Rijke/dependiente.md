@@ -3,7 +3,6 @@ title: Teoría de tipos dependiente
 tags:
   - Tipos
   - Rijke
-publish: true
 ---
 La teoría de tipos dependiente es un conjunto de reglas de inferencia que se pueden 
 combinar para crear *derivaciones*. El objetivo de estas derivaciones es 

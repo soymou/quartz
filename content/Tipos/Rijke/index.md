@@ -1,5 +1,4 @@
 ---
-publish: true
 title: Rijke
 tags:
   - Tipos
